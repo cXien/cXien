@@ -43,9 +43,29 @@
 </table>
 </div>
 
+---
+
+<div align="center">
+
+## 📊 **Performance Analytics**
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=cXien&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9"/>
+</td>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cXien&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9"/>
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cXien&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866"/>
+
 </div>
 
 ---
+
 
 <div align="center">
 
@@ -91,13 +111,14 @@
 
 ##  Spotify Playing
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=9g2qx4laj8opzgcbzh8x2b9su&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile" />
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=9g2qx4laj8opzgcbzh8x2b9su&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false" width="400"/>
 
 <div align="center">
 
 ##   Discord Status
 
-<img src="https://lanyard.cnrad.dev/api/990868869449121852?theme=dark&bg=0d1117&animated=true" alt="Discord Status" />
+<img src="https://lanyard.cnrad.dev/api/990868869449121852?theme=dark&bg=0d1117&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20coding..." alt="Discord Status"/>
+</a>
 
 ---
 
