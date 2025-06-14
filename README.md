@@ -47,7 +47,7 @@
 
 <div align="center">
 
-## 📊 **Performance Analytics**
+##  **Performance Analytics**
 
 <table>
 <tr>
