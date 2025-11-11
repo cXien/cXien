@@ -43,26 +43,6 @@
 </table>
 </div>
 
----
-
-<div align="center">
-
-##  **Performance Analytics**
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=cXien&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9"/>
-</td>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cXien&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9"/>
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cXien&theme=tokyonight&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866"/>
-
-</div>
 
 ---
 
